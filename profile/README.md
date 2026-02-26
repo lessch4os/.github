@@ -1,46 +1,42 @@
-# Welcome to Glyphtek! 👋
+# Less ch4OS | Engineering Intelligence House
 
-At Glyphtek, we forge intelligent tools and solutions designed to decipher complexity and enhance the developer experience. We believe that the right tools can unlock new levels of productivity and reveal more intuitive ways to interact with the symbolic systems that underpin modern technology.
+> **Distill noise. Install flow.**
 
-**Visit our official website: [glyphtek.github.io](https://glyphtek.github.io)**
+**Less ch4OS** es un laboratorio de inteligencia en ingeniería dedicado a reducir la entropía técnica y biológica. Desarrollamos y mantenemos frameworks agnósticos y sistemas operativos estratégicos para la colaboración avanzada entre humanos e inteligencia artificial.
 
-## Our Focus 🎯
+## 0x01 | Core Architecture
 
-We specialize in crafting robust and insightful **tek** (technology) for navigating, managing, and creating the **glyphs** (code, configurations, data structures, and system definitions) of today's software landscape.
+Nuestra metodología sincroniza la capacidad cognitiva humana con la ejecución de alta frecuencia:
 
-Our tools aim to:
+* [**ESENCIA Framework**](https://github.com/lessch4os/esencia-framework) — **Agnostic Personal Navigation Framework.** El "Hardware" biológico. Gestiona la carga cognitiva, protege la corteza prefrontal y optimiza la energía a través de ciclos ultradianos (90/25/15) y navegación estratégica.
 
-* **Illuminate the Unseen:** Bring clarity to complex systems and workflows.
-* **Enhance Developer Flow:** Streamline processes and reduce friction in development cycles.
-* **Unlock Potential:** Provide powerful capabilities that help you build, manage, and understand your projects more effectively.
-* **Champion Quality & Design:** Create tools that are not only functional but also well-crafted and a pleasure to use.
+* [**D.B.V.A. OS**](https://github.com/lessch4os/dbva-os) — **Strategic Operational Kernel para el Partnership con IA.** El "Software" estratégico. Proporciona la estructura necesaria para lograr claridad, validación robusta (**P.R.E.S.S.**) y resultados acelerados en entornos de alta complejidad.
 
-## What We Build 🛠️
+## 0x02 | The Artifacts
 
-You'll find us working on a range of developer utilities, including (but not limited to):
+Clasificamos nuestra producción técnica en activos modulares diseñados para ser instalados en cualquier flujo de trabajo de alto rendimiento:
 
-* **CLI Applications & Libraries:** Powerful command-line interfaces and reusable libraries to automate tasks and extend capabilities.
-* **System Explorers & Dashboards:** Tools to visualize, navigate, and understand intricate systems and services.
-* **Workflow Enhancements:** Utilities designed to integrate seamlessly and improve specific development and operational workflows.
+### 🧠 Knowledge Capsules (Research & Synthesis)
 
-Our goal is to provide the missing pieces or the "untold" approaches that can make a significant difference in your daily work.
+* [**Hard-boiled Drizzle**](https://github.com/lessch4os/hard-boiled-drizzle) — Patrones de rendimiento y arquitectura "battle-tested" para Drizzle ORM.
 
-## Our Philosophy 💡
+* [**AI Playbook**](https://github.com/lessch4os/ai-first-playbook) — Repositorio de estrategias de síntesis IA-Humano y prompts de nivel de kernel.
 
-We believe that many powerful efficiencies and elegant solutions are waiting to be uncovered – like glyphs yet to be fully interpreted. Glyphtek is dedicated to exploring these frontiers, crafting tools that are both innovative and immensely practical.
+### 🛠️ Engineering Tools (Executable Software)
 
-## Explore Our Work 🔭
+* [**ScriptIt**](https://github.com/lessch4os/scriptit) — TUI (Terminal User Interface) basada en Bun para unificar scripts de proyecto, gestionar entornos y eliminar la fricción estática.
 
-Dive into our repositories to discover our projects. We are constantly exploring new ideas and refining our existing tools.
+## 0x03 | Systems & Advisory
 
-## Get Involved 🤝
+Transformamos arquitecturas caóticas en sistemas de alta fidelidad mediante auditorías de inteligencia y síntesis de sistemas.
 
-We're excited to build a community around robust and insightful developer tools.
-* **Feedback:** Have an idea or feedback? We'd love to hear it via issue trackers on our respective project repositories.
-* **Contributions:** As our projects mature, we'll outline contribution guidelines for those looking to help shape their future.
+* **Web Oficial:** [lessch4os.com](https://lessch4os.com)
 
----
+* **Consultas Técnicas:** [sergio@lessch4os.com](mailto:sergio@lessch4os.com)
 
-Thanks for stopping by!
+* **Lead Architect & Founder:** [Sergio Romano](https://linkedin.com/in/sergiohromano)
 
-**The Glyphtek Team**
+<p align="center">
+<br/>
+<sub>"Order, discipline, and self-knowledge are proactive, not reactive."</sub>
+</p>
